@@ -8,7 +8,7 @@ from pyrogram.types import CallbackQuery, InputMediaPhoto, Message
 
 from Romeo import bot
 from Romeo.misc import db
-from Romeo.modules.utils import (Adityabin, get_channeplayCB,
+from Romeo.modules.utils import (Mainbin, get_channeplayCB,
                               seconds_to_min)
 from Romeo.modules.database import (get_cmode, is_active_chat,
                                        is_music_playing)
