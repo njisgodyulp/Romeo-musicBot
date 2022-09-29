@@ -21,7 +21,7 @@ from Romeo.modules.database import (get_active_chats,
                                        remove_active_chat,
                                        remove_active_video_chat)
 from Romeo.modules.decorators.language import language
-from Romeo.modules.utils.pastebin import Adityabin
+from Romeo.modules.utils.pastebin import Mainbin
 
 # Commands
 GETLOG_COMMAND = get_command("GETLOG_COMMAND")
@@ -47,7 +47,7 @@ async def log_(client, message, _):
             if HAPP is None:
                 return await message.reply_text(_["heroku_1"])
             data = HAPP.get_log()
-            link = await Adityabin(data)
+            link = await Mainbin(data)
             return await message.reply_text(link)
         else:
             if os.path.exists(config.LOG_FILE_NAME):
@@ -60,7 +60,7 @@ async def log_(client, message, _):
                     NUMB = 100
                 for x in lines[-NUMB:]:
                     data += x
-                link = await Adityabin(data)
+                link = await Mainbin(data)
                 return await message.reply_text(link)
             else:
                 return await message.reply_text(_["heroku_2"])
