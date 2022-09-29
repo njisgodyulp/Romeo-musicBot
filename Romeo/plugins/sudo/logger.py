@@ -5,7 +5,7 @@ from Romeo.utilities.strings import get_command
 from Romeo import bot
 from Romeo.misc import SUDOERS
 from Romeo.modules.database import add_off, add_on
-from Romeor.modules.decorators.language import language
+from Romeo.modules.decorators.language import language
 
 # Commands
 LOGGER_COMMAND = get_command("LOGGER_COMMAND")
