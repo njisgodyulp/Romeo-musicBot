@@ -16,7 +16,7 @@ from Romeo.modules.decorators.language import language, languageCB
 from Romeo.utilities.inline.playlist import (botplaylist_markup,
                                               get_playlist_markup,
                                               warning_markup)
-from Romeo.modules.utils.pastebin import Adityabin
+from Romeo.modules.utils.pastebin import Mainbin
 from Romeo.modules.stream.stream import stream
 
 # Command
@@ -46,7 +46,7 @@ async def check_playlist(client, message: Message, _):
         count += 1
         msg += f"\n\n{count}- {title[:70]}\n"
         msg += _["playlist_5"].format(duration)
-    link = await Adityabin(msg)
+    link = await Mainbin(msg)
     lines = msg.count("\n")
     if lines >= 17:
         car = os.linesep.join(msg.split(os.linesep)[:17])
