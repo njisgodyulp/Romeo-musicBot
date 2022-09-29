@@ -18,7 +18,7 @@ def setting_markup(_):
                 text="🎩 𝐀𝐮𝐭𝐡 𝐔𝐬𝐞𝐫𝐬", callback_data="AU"
             ),
             InlineKeyboardButton(
-                text="🤖 𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫", url=f"te.legra.ph/%E3%85%A4-09-29-3"
+                text="🤖 𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫", url=f"https://te.legra.ph/%E3%85%A4-09-29-3"
             ),
         ],
         [
