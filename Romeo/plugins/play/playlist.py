@@ -12,12 +12,12 @@ from Romeo import Carbon, YouTube, bot
 from Romeo.modules.database import (delete_playlist, get_playlist,
                                        get_playlist_names,
                                        save_playlist)
-from Romeor.modules.decorators.language import language, languageCB
+from Romeo.modules.decorators.language import language, languageCB
 from Romeo.utilities.inline.playlist import (botplaylist_markup,
                                               get_playlist_markup,
                                               warning_markup)
 from Romeo.modules.utils.pastebin import Adityabin
-from Romeor.modules.stream.stream import stream
+from Romeo.modules.stream.stream import stream
 
 # Command
 PLAYLIST_COMMAND = get_command("PLAYLIST_COMMAND")
