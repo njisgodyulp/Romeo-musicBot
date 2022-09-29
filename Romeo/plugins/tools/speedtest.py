@@ -3,7 +3,7 @@ import speedtest
 from pyrogram import filters
 from Romeo.utilities.strings import get_command
 from Romeo import bot
-from Romeo import SUDOERS
+from Romeo.misc import SUDOERS
 
 # Commands
 SPEEDTEST_COMMAND = get_command("SPEEDTEST_COMMAND")
