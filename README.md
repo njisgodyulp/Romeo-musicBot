@@ -2,6 +2,13 @@
 
 <p align="center"><a href="https://t.me/RomeoBot_OP"><img src="https://telegra.ph/file/e745fdaf1966f228582dc.jpg"></a></p>
 
+##  Deploy to Heroku  🤝
+
+- First give start then
+- Fork the repo then 
+- Tap below botton ☟︎︎︎☟︎︎︎☟︎︎︎ for deploy Romeo-musicBot 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Romeo-RJ-143/Romeo-musicBot)
 
 
 
