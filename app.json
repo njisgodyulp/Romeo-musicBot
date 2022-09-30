@@ -7,9 +7,7 @@
         "telegram bot",
         "pyrogram"
     ],
-    "website": "https://t.me/RomeoBot_OP",
     "repository": "https://github.com/Romeo-RJ-143/Romeo-musicBot",
-    "success_url": "https://t.me/Romeo_OP",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -55,12 +53,10 @@
         "SUPPORT_CHANNEL": {
             "description": "if you have channel, then fill the group username here without @",
             "required": true,
-            "value": "https://t.me/ROMEO_OP"
         },
         "SUPPORT_GROUP": {
             "description": "if you have group, then fill the channel username here without @",
             "required": true,
-            "value": "https://t.me/ROMEOBOT_OP"
         }
     },
     "addons": [],
