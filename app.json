@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/RomeoBot_OP",
-    "repository": "https://github.com/Romeo-RJ/Romeo-musicBot",
+    "repository": "https://github.com/Romeo-RJ-143/Romeo-musicBot",
     "success_url": "https://t.me/Romeo_OP",
     "env": {
         "API_ID": {
