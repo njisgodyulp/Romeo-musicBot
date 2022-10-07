@@ -1,3 +1,12 @@
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Romeo-RJ-143/Romeo-musicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+
+<h3 align="center">
+
 ### 🥀 𝐁𝐞𝐬𝐭 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐒𝐮𝐩𝐬𝐫𝐟𝐚𝐬𝐭 𝐚𝐧𝐝 𝐒𝐦𝐚𝐫𝐭 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭 𝐒𝐨𝐮𝐫𝐜𝐞 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐆𝐫𝐨𝐮𝐩𝐬 𝐚𝐧𝐝 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ✨...
 
 <p align="center"><a href="https://t.me/RomeoBot_OP"><img src="https://telegra.ph/file/e745fdaf1966f228582dc.jpg"></a></p>
