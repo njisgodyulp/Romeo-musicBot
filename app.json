@@ -32,7 +32,7 @@
         },
         "DURATION_LIMIT": {
             "description": "leave it",
-            "required": true
+            "required": false
             "value": "5400"
         },
         "LOG_GROUP_ID=": {
