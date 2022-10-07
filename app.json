@@ -8,7 +8,6 @@
         "pyrogram"
     ],
     "stack": "container",
-    "repository": "https://github.com/Romeo-RJ-143/Romeo-musicBot",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
